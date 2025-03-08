@@ -5,4 +5,5 @@
 -- Highlight the 80th column
 vim.opt.colorcolumn = "80"
 
-vim.g.lazyvim_rust_diagnostics = "rust-analyzer"
+-- Uncomment to get rust syntax highlighting.
+-- vim.g.lazyvim_rust_diagnostics = "rust-analyzer"
